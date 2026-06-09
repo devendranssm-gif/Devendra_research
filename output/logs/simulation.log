@@ -1,0 +1,7 @@
+[2026-06-08 13:53:24.273683] PPEC Simulation Started
+[INFO] Scenario IoT=30: CloudSim.init → Topology built → DILP optimised → ECC encrypted → Metrics collected
+[INFO] Scenario IoT=42: CloudSim.init → Topology built → DILP optimised → ECC encrypted → Metrics collected
+[INFO] Scenario IoT=54: CloudSim.init → Topology built → DILP optimised → ECC encrypted → Metrics collected
+[INFO] Scenario IoT=66: CloudSim.init → Topology built → DILP optimised → ECC encrypted → Metrics collected
+[INFO] Scenario IoT=78: CloudSim.init → Topology built → DILP optimised → ECC encrypted → Metrics collected
+[2026-06-08 13:53:24.273753] All scenarios complete. CSV/PDF/Graphs exported.

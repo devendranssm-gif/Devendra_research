@@ -1,0 +1,52 @@
+=================================
+PPEC HEALTHCARE FOG SIMULATION
+RESULTS SUMMARY
+=================================
+Fog Nodes    : 6
+ECC Curve    : secp256r1 (ECIES)
+DILP Solver  : Branch-and-Bound ILP
+Simulation   : iFogSim2 (GitHub master)
+Sim Time     : 10000 s
+Sim Area     : 3000 x 3000 m
+Coverage R   : 600 m
+---------------------------------
+
+IoT Devices       : 30
+Average Latency   : 20.60 ms
+Energy Consumption: 8634.2430 J
+Execution Cost    : 0.000123 $
+Network Usage     : 0.0858 MB
+Execution Time    : 12.30 ms
+---------------------------------
+
+IoT Devices       : 42
+Average Latency   : 26.60 ms
+Energy Consumption: 12088.0002 J
+Execution Cost    : 0.000145 $
+Network Usage     : 0.1201 MB
+Execution Time    : 14.46 ms
+---------------------------------
+
+IoT Devices       : 54
+Average Latency   : 32.60 ms
+Energy Consumption: 15542.7574 J
+Execution Cost    : 0.000166 $
+Network Usage     : 0.1544 MB
+Execution Time    : 16.62 ms
+---------------------------------
+
+IoT Devices       : 66
+Average Latency   : 38.60 ms
+Energy Consumption: 18997.5146 J
+Execution Cost    : 0.000188 $
+Network Usage     : 0.1887 MB
+Execution Time    : 18.78 ms
+---------------------------------
+
+IoT Devices       : 78
+Average Latency   : 44.60 ms
+Energy Consumption: 22452.2718 J
+Execution Cost    : 0.000209 $
+Network Usage     : 0.2230 MB
+Execution Time    : 20.94 ms
+---------------------------------
